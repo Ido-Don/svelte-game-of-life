@@ -40,7 +40,7 @@
   <form>
     <input bind:checked={game_running} type="checkbox" />
     <!-- svelte-ignore a11y-label-has-associated-control -->
-    <label>simulate life</label>
+    <label>simulate lifes</label>
   </form>
   <div
     id="board"
